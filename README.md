@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Langdon Staab
-- 👀 I’m interested in Woodwork, electronics creation, soldering, computer building/disassembly, and coding
-- 🌱 I’m currently learning High school stuff and also how to code things with html
-- 💞️ I’m looking to collaborate on pacman web2( langdonstaab.ca/web2)
+- 👀 I’m interested in woodworking, machines, soldering, making, and coding
+- 🌱 I’m currently learning Linux stuff, Java, and alot about machines
+- 💞️ I’m looking to collaborate on putting my app on the Ubuntu Snap Store
 - 📫 How to reach me: collaboration@langdonstaab.ca
 - My website was formerly www.getpacman.gq; It is now www.langdonstaab.ca
 
